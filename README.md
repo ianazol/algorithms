@@ -4,3 +4,6 @@
 - [Сортировка слиянием](https://github.com/ianazol/algorithms/blob/master/merge.sort.js)
 - [Сортировка выбором](https://github.com/ianazol/algorithms/blob/master/selection.sort.js)
 - [Сортировка вставками](https://github.com/ianazol/algorithms/blob/master/insertion.sort.js)
+
+## Поиск
+- [Бинарный поиск](https://github.com/ianazol/algorithms/blob/master/binary.search.js)
